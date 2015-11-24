@@ -1,4 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <settings>
+
+<rows>
   <row property="simeple property">simeple value</row>
+ <row property="simeple property1">simeple value1</row>
+ <row property="simeple property2">simeple value2</row>
+ <row property="simeple property3">simeple value3</row>
+ <row property="simeple property4">simeple value4</row>
+ <row property="simeple property5">simeple value5</row>
+ <row property="simeple property6">simeple value6</row>
+ <row property="simeple property7">simeple value7</row>
+ <row property="simeple property8">simeple value8</row>
+ <row property="simeple property9">simeple value9</row>
+</rows>
+
+<simple>
+<simpleRow>Value 01</simpleRow>
+<simpleRow>Value 02</simpleRow>
+<simpleRow>Value 03</simpleRow>
+<simpleRow>Value 04</simpleRow>
+<simpleRow>Value 05</simpleRow>
+</simple>
+
 </settings>
