@@ -11,14 +11,17 @@ namespace IOTextFiles1
 
 			IOSettings1 _io = new IOSettings1 (_STable1);
 
-			Console.WriteLine (_STable1.stable1 [0]);
 
-			if (_io.save ()) {
-				Console.WriteLine ("Таблицата е запаметена успешно");				
+
+			if (_io.open ())   //save ()) 
+			{
+				Console.WriteLine ("Таблицата е прочетена успешно");				
 			} else {
-				Console.WriteLine ("Таблицата НЕ е запаметена успешно");
+				Console.WriteLine ("Таблицата НЕ е прочетена успешно");
 
 			}
+
+			Console.WriteLine (_STable1.stable1 [0]);
 		}
 	}
 }
