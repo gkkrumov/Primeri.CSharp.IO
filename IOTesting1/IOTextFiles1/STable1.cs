@@ -12,8 +12,8 @@ namespace IOTextFiles1
 
 		private void fillSTable1 ()
 		{
-			stable1 [0] = "1,0,5,0.5678"; 
-			stable1 [1] = "1,5,10,0.1111";
+			stable1 [0] = "1,0,5,0.4582"; 
+			stable1 [1] = "1,5,10,0.4582";
 			stable1 [2] = "5,10,15,0.4582";
 			stable1 [3] = "10,15,20,0.4582";
 		}

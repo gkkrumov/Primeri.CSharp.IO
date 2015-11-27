@@ -1,8 +1,10 @@
-﻿<Properties StartupItem="IOTextFiles\IOTextFiles.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="IOTextFiles\Program.cs">
+﻿<Properties StartupItem="IOTextFiles2\IOTextFiles2.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IOTextFiles\IOSettings.cs">
     <Files>
-      <File FileName="IOTextFiles\Program.cs" Line="13" Column="1" />
+      <File FileName="IOTextFiles\Program.cs" Line="25" Column="1" />
+      <File FileName="IOTextFiles\STable.cs" Line="23" Column="1" />
+      <File FileName="IOTextFiles\IOSettings.cs" Line="32" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
